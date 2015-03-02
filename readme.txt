@@ -4,7 +4,7 @@ Donate link: http://blog.kjodle.net/2012/07/26/hes-dead-jim-plugin-for-wordpress
 Tags: 
 Requires at least: 3.0
 Tested up to: 4.1.1
-Stable tag: 1.1
+Stable tag: 1.1.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -14,7 +14,7 @@ Like "Hello Dolly" from Matt, "He's Dead, Him" produces random lines from Star T
 
 Do you like the idea behind Matt's "Hello, Dolly" plugin, but feel that it doesn't feed your inner nerd? Then here's "He's Dead, Jim" which has been shamelessly ported from Matt's plugin. The concept is the same, except that instead of lines from "Hello, Dolly" you get lines from Star Trek: The Original Series. There are no settings, just install it, activate it, and enjoy.
 
-For more information, visit the [plugin's homepage] (http://www.kjodle.net/wordpress/hes-dead-jim/). 
+For more information, visit the [plugin's homepage](http://www.kjodle.net/wordpress/hes-dead-jim/). 
 
 == Installation ==
 
@@ -38,7 +38,10 @@ Normally, "He's Dead, Jim" will output its text where "Hello Dolly" does. If "He
 
 = 1.1 =
 * Added the css to a separate stylesheet, saving on server resources and enabling default styles to be more easily overridden in a child theme.
-* 
+* Updated styling to match the current appearance of WordPress (4.0).
+
+= 1.1.1 = 
+* Maintenance release, fixing broken links in the readme.txt document.
 
 == Upgrade Notice ==
 
@@ -47,4 +50,4 @@ Version 1.1 looks better with the current WordPress styling, as it also makes us
 
 == More Info ==
 
-You can read more about this plugin [here](http://techblog.kjodle.net/2012/07/26/hes-dead-jim-plugin-for-wordpress/). You can read about the history behind it (and see some interesting screen shots) [here](http://techblog.kjodle.net/2012/07/24/in-which-i-kind-of-learn-how-to-create-a-wordpress-plugin/)
+You can read more about this plugin [here](http://techblog.kjodle.net/2012/07/26/hes-dead-jim-plugin-for-wordpress/). You can read about the history behind it (and see some interesting screen shots) [here](http://blog.kjodle.net/2012/07/24/in-which-i-kind-of-learn-how-to-create-a-wordpress-plugin/)
