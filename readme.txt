@@ -1,6 +1,6 @@
 === He's Dead, Jim ===
 Contributors: kjodle
-Donate link: http://blog.kjodle.net/2012/07/26/hes-dead-jim-plugin-for-wordpress/
+Donate link: http://kjodle.info/support
 Tags: 
 Requires at least: 3.0
 Tested up to: 4.1.1
