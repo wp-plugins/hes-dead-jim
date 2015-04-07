@@ -38,7 +38,6 @@ Normally, "He's Dead, Jim" will output its text where "Hello Dolly" does. If "He
 
 = 1.1 =
 * Added the css to a separate stylesheet, saving on server resources and enabling default styles to be more easily overridden in a child theme.
-* 
 
 == Upgrade Notice ==
 
