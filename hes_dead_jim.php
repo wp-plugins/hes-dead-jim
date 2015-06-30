@@ -4,7 +4,7 @@ Plugin Name: He's Dead, Jim
 Plugin URI: http://www.kjodle.net/wordpress/hes-dead-jim/
 Description: Do you like the idea behind Matt's "Hello, Dolly" plugin, but feel that it doesn't feed your inner nerd? Then here's "He's Dead, Jim" which has been shamelessly ported from Matt's plugin. The concept is the same, except that instead of lines from "Hello, Dolly" you get lines from Star Trek: The Original Series. 
 Most of the quotations were taken from: http://en.wikiquote.org/wiki/Star_Trek:_The_Original_Series
-Version: 1.1.1
+Version: 1.1
 Author: Kenneth John Odle
 Author URI: http://techblog.kjodle.net
 Author Support: http://kjodle.info/support
