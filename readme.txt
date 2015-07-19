@@ -14,7 +14,7 @@ Like "Hello Dolly" from Matt, "He's Dead, Him" produces random lines from Star T
 
 Do you like the idea behind Matt's "Hello, Dolly" plugin, but feel that it doesn't feed your inner nerd? Then here's "He's Dead, Jim" which has been shamelessly ported from Matt's plugin. The concept is the same, except that instead of lines from "Hello, Dolly" you get lines from Star Trek: The Original Series. There are no settings, just install it, activate it, and enjoy.
 
-For more information, visit the [plugin's homepage] (http://www.kjodle.net/wordpress/hes-dead-jim/). 
+For more information, visit the [plugin's homepage](http://www.kjodle.net/wordpress/hes-dead-jim/). 
 
 == Installation ==
 
